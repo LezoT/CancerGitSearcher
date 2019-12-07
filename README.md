@@ -1,4 +1,4 @@
-# **Cl0neMast3r**
+# **Cancer Finder**
 
 ## About:
 **CancerFinder** is a Python script that was coded to make your life easier.
@@ -38,14 +38,14 @@ Option | Description
 
 ## Installation:
 ```
-git clone https://github.com/Abdulraheem30042/Cl0neMast3r.git
+git clone https://github.com/LezoT/CancerGitSearcher.git
 cd Cancer/
 pip install -r requirements.txt
 ```
 
 ## Environment:
 `Doesn't support Windows right now :(`<br>
-Cl0neMast3r has been tested on:
+CancerFinder has been tested on:
 * **macOS High Sierra**
 * **Kali Linux**
 * **Linux Mint**
